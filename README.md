@@ -11,4 +11,4 @@
 |<img width="1920" src="art/art (16).jpg">|<img width="1920" src="art/art (17).jpg">|<img width="1920" src="art/art (19).jpg">|
 |<img width="1920" src="art/art (19).jpg">|<img width="1920" src="art/art (20).jpg">|<img width="1920" src="art/art (21).jpg">|
 |<img width="1920" src="art/art (22).jpg">|<img width="1920" src="art/art (23).jpg">|<img width="1920" src="art/art (24).jpg">|
-|<img width="1920" src="art/art (25).jpg">|
+|<img width="1920" src="art/art (25).jpg">|<img width="1920" src="art/art (26).png">|
